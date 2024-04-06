@@ -1,0 +1,31 @@
+body{
+    background-color: #8BA1BB;
+    margin-left: 30px;
+    padding: 30px;
+}
+.categorie{
+    background-color: white;
+    margin: 50px 10% 50px 10%;
+    text-align: left;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img.info{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    text-align: center;
+}
+div.info{
+    background-color: #8BA1BB;
+}
+.h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+table.contenu{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    border: 20px;
+}
